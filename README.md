@@ -1,16 +1,35 @@
-# React + Vite
+# The Shore
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Aplikasi ini bertujuan untuk bahan pembelajaran CSS saya.
 
-Currently, two official plugins are available:
+## Aplikasi apa ini?
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Pengguna dapat menggunakan ini untuk mengirim pesan ke "pantai". Pengguna lain dapat membaca pesan tersebut secara acak. Bertujuan untuk mencari teman, dll.
 
-## React Compiler
+## Moderasi
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Moderasi akan menggunakan Menggunakan [OpenAI Moderation Model](https://developers.openai.com/api/reference/resources/moderations/methods/create) dan secara berkala saya check manual.
 
-## Expanding the Oxlint configuration
+## Progress
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+### Week 2
+
+![Week2 Progress](./docs/week2.png)
+
+### Week 3
+
+![Week 3 Progress](./docs/week3.png)
+
+### Week 4
+
+Kenapa menggunakan tailwind? karena saya lebih menyukai approach tailwind yang simple, dibandingkan bootstrap yang terlalu banyak alat
+
+#### Form 
+
+![Week 4 Progress](./docs/w4-form.png)
+
+#### Admin
+
+![Week 4 admin](./docs/w4-admin-desktop.png)
+
+![Week 4 Admin mobile](./docs/w4-admin-mobile-landscape.png)
