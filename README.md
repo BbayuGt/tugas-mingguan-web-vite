@@ -33,3 +33,5 @@ Kenapa menggunakan tailwind? karena saya lebih menyukai approach tailwind yang s
 ![Week 4 admin](./docs/w4-admin-desktop.png)
 
 ![Week 4 Admin mobile](./docs/w4-admin-mobile-landscape.png)
+
+[Week 7 external API](./docs/external.png)
